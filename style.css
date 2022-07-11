@@ -9,7 +9,7 @@
     "seven eight nine minus"
     "four five six plus"
     "one two three mult"
-    "zer equal equal divide";
+    "zer clear equal divide";
     gap: 1px;
 }
 body {
@@ -43,6 +43,10 @@ body {
 }
 #divide {
     grid-area: divide;
+}
+#clear {
+
+    grid-area: clear;
 }
 #equal {
 
